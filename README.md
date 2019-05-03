@@ -1,2 +1,3 @@
-# tangent
-Lightweight Matrix web client
+Simple Matrix web client
+
+Working example: https://bahlox.de/tangent/
